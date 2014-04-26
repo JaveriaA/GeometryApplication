@@ -3,12 +3,15 @@
 int main()
 {
 	// stub for intro message and switch case statements
-	return 0;
+	int r;
+	printf("enter the radius of the circle");
+		
+return 0;
 }
 
 int calAreaOfSquare()
 {
-    // stub for calculating Area of Square
+    // stub for calculating Area of Squar
 }
 int calAreaOfTriangle()
 {
@@ -21,4 +24,6 @@ int calAreaOfRectangle()
 int calAreaOfCircle()
 {
     // stub for calculating Area of Circle
+    
+    
 }
